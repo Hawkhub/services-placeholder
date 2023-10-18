@@ -2,7 +2,7 @@
   "data": [
     {"ID": "1", "Name": "service 1", "CurrentStatus": "Available", "Statuses": [{
       "CreatedAt": "2023-10-18T00:00:00.000+04:00",
-      "CurrentStatus": "NotAvailable",
+      "CurrentStatus": "NotAvailable"
     }]},
     {"ID": "2", "Name": "service 2", "CurrentStatus": "Available", "Statuses": []},
     {"ID": "3", "Name": "service 3", "CurrentStatus": "Available", "Statuses": []},
